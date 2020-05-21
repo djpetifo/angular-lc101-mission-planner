@@ -1,0 +1,9 @@
+app-header {
+    text-align: center;
+}
+.box {
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+    border: 1px solid black;
+}
